@@ -105,7 +105,12 @@ ul {
 }
 
 @media only screen and (max-width: 1156px) {
-    .
+    .leftbar, .subheader {
+     
+       display: inline;
+        
+  
+    }
     .subheader{
      width: 60%;
     }
